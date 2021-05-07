@@ -26,7 +26,7 @@ Most other components should be available in a standard Kicad installation.
 # Board manufacturing
 
 I chose the components specifically for manufacture by JLCPCB. Component
-choices, values and footprints were based upon their [component availability](https://jlcpcb/parts)
+choices, values and footprints were based upon their [component availability](https://jlcpcb.com/parts)
 as at May 2021. The SMD components already have LCSC part numbers added to their properties.
 
 Follow [their instructions](https://support.jlcpcb.com/article/149-how-to-generate-gerber-and-drill-files-in-kicad) for creating the necessary files for fab.
