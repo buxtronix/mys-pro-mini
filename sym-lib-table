@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mys-pro-mini-rescue)(type Legacy)(uri ${KIPRJMOD}/mys-pro-mini-rescue.lib)(options "")(descr ""))
+)
